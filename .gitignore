@@ -166,4 +166,5 @@ cython_debug/
 # Windows python environment
 Scripts/
 
-# 
+# xgboost's shared library
+xgboost/
