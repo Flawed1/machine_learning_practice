@@ -7,3 +7,6 @@ openpyxl
 imbalanced-learn
 xgboost
 spacy
+stop-words
+streamlit
+frozendict
