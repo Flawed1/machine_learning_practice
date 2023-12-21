@@ -10,3 +10,8 @@ spacy
 stop-words
 streamlit
 frozendict
+torch
+pyvirtualdisplay
+piglet
+gym
+pygame
